@@ -14,7 +14,7 @@ const styles = {
     color: "#091c41ff",
     textAlign: "center",
     fontWeight: "bold",
-    fontSize: "28px",
+    fontSize: "34px",
   },
 };
 
