@@ -45,7 +45,7 @@ const Body = () => {
       </div>
       <div style={styles.card}>
         <img
-          src={"/Bohdan.png"}
+          src={"/bohdan.jpg"}
           alt="Богдан Корнацький"
           style={styles.photo}
         />
