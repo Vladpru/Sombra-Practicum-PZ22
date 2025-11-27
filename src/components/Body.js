@@ -45,12 +45,12 @@ const Body = () => {
       </div>
       <div style={styles.card}>
         <img
-          src={"/avatar-default.png"}
-          alt="Владислав Присяжнюк"
+          src={"/Bohdan.png"}
+          alt="Богдан Корнацький"
           style={styles.photo}
         />
         <div style={styles.textContainer}>
-          <h2 style={styles.name}>Владислав Присяжнюк</h2>
+          <h2 style={styles.name}>Богдан Корнацький</h2>
           <p style={styles.position}>Business Analyst</p>
         </div>
       </div>
