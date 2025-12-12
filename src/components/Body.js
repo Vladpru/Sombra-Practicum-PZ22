@@ -24,7 +24,7 @@ const Body = () => {
       <div style={styles.card}>
         <img
           src={"/DenysS.jpg"}
-          alt="Денис Сич"
+          alt="Денис Сич   "
           style={styles.photo}
         />
         <div style={styles.textContainer}>
